@@ -4,7 +4,8 @@ MUHAMMAD SYAHRUL ROMADHON (3124521017) 1 IT A PSDKU LA_PRAKTIKUM 1 SISTEM OPERAS
 Latihan 
 
 1. b. Bilangan heksadesimal adalah bilangan yang berbasis ? ENAM BELAS (b)
-2. Konversikan bilangan desimal di bawah ini ke dalam bilangan biner
+   
+3. Konversikan bilangan desimal di bawah ini ke dalam bilangan biner
    a. 123410
    langkah-langkah
    Bagi bilangan dengan 2 dan catat sisa pembagian:
@@ -24,7 +25,7 @@ Latihan
 
    Jadi, 123410 = 10011010010 (a)
 
-3. Konversikan bilangan biner di bawah ini ke dalam bilangan desimal
+4. Konversikan bilangan biner di bawah ini ke dalam bilangan desimal
    b. 01010101
    Langkah-langkah
    Tuliskan bilangan biner dan tentukan nilai setiap bit:
@@ -41,7 +42,7 @@ Latihan
    64+16+4+1=85
    Jadi, 01010101 = 85 (b)
 
-4. Konversikan bilangan biner di bawah ini ke dalam bilangan oktal
+5. Konversikan bilangan biner di bawah ini ke dalam bilangan oktal
    a. 101 011 111 0012
    Langkah-langkah
    Kelompokkan bilangan biner menjadi kelompok 3 digit dari kanan:
@@ -55,7 +56,7 @@ Latihan
 
    Jadi, 5 3 7 1 ⇒ 537188 (a)
 
-5. Konversikan bilangan oktal di bawah ini ke dalam bilangan biner
+6. Konversikan bilangan oktal di bawah ini ke dalam bilangan biner
    b. 35718
    Langkah-langkah
    Pisahkan setiap digit oktal:
